@@ -21,7 +21,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
           Analytics.self,
           Crashes.self
         ])
-        
+                
         return true
     }
 
